@@ -1,0 +1,7 @@
+name: 'Custom AJAX Form'
+type: module
+description: 'Módulo custom para demostrar un formulario con AJAX.'
+core_version_requirement: ^10 || ^11 
+package: Custom
+dependencies:
+  []

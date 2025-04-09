@@ -1,0 +1,17 @@
+custom_ajax_form.get_users:
+  path: '/custom/get-users'
+  defaults:
+    _controller: '\Drupal\custom_ajax_form\Controller\CustomApiController::getUsers'
+    _title: 'Get Users'
+  methods: [POST]
+  requirements:
+    _permission: 'access content'
+
+custom_ajax_form.formajaxtest:
+  path: '/customajaxapiformtest'
+  defaults:
+    _title: 'Custom Form'
+    _form: '\Drupal\custom_ajax_form\Form\CustomAjaxApiFormTest'
+  requirements:
+    _permission: 'access content'
+

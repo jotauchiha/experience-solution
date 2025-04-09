@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Changed":"Modificado","Error message":"Mensaje de error","Warning message":"Mensaje de advertencia"}},"pluralFormula":{"1":0,"default":1}};

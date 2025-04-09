@@ -1,0 +1,5 @@
+custom_ajax_form.main_menu:
+  title: 'Formulario AJAX'
+  route_name: 'custom_ajax_form.formajaxtest'
+  parent: main-menu/servicios
+  weight: 0
