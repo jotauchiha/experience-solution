@@ -4,8 +4,8 @@ Este es un proyecto desarrollado en Drupal para demostrar una solución personal
 
 ## 📁 Estructura del proyecto
 
-- `mimodulo/`: Módulo personalizado con funcionalidades AJAX
-- `templates/`: Plantillas Twig para renderizado
+- `custom_ajax_form/`: Módulo personalizado con funcionalidades AJAX.
+- `customajaxapiformtest`: Url del formulario ejecutándose en el servidor para renderizado.
 - `README.md`: Este archivo 😎
 
 ## ⚙️ Requisitos
@@ -36,7 +36,7 @@ Este proyecto está configurado para usarse con Docker y Docker Compose. Sigue e
    ```bash
    docker-compose up --build
 - Dirigete a localhost: 
-[Formulario]http://localhost:8080/customajaxapiformtest
+    http://localhost:8080/customajaxapiformtest
 
 ## Opción 2: Usando un servidor web
 
@@ -45,8 +45,9 @@ Este proyecto está configurado para usarse con Docker y Docker Compose. Sigue e
 3. Instalar desde la página web en Extends.
 4. Dirígete a localhost:
      
-[Formulario](http://localhost:8080/customajaxapiformtest)
+    (http://tuurl.es/customajaxapiformtest)
 
 
 ## Herramientas Usadas
 -  Thunder Client(Api,POST)
+-  Devel Modulo Custom
