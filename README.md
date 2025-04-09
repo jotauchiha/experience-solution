@@ -1,4 +1,3 @@
-# experience-solution
 # Experience Solution 🚀
 
 Este es un proyecto desarrollado en Drupal para demostrar una solución personalizada con integración de AJAX y PHP.
